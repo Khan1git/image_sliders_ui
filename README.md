@@ -1,0 +1,2 @@
+# TASKS
+ image slider taks
