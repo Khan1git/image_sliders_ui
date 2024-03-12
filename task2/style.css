@@ -26,7 +26,6 @@
     flex-direction: column;
     display: flex;
     justify-content: flex-end;
-    /* Add this to push the span to the bottom */
     align-items: start;
     position: relative;
     display: inline-block
